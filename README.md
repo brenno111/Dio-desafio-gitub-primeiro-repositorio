@@ -1,2 +1,7 @@
-# Dio-desafio-gitub-primeiro-repositorio
-Desafio de Projeto Git/GitHub
+# Desafio de Projeto sobre Git/GitHub da Dio
+ ***Repositório criado para o Desafio de Projeto***
+
+## Links 🔗
+ [Download do Git](https://git-scm.com/downloads)
+ 
+ [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
